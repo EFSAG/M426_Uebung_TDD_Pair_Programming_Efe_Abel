@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M426_Uebung_TDD_Pair_Programming_Efe_Abel", "M426_Uebung_TDD_Pair_Programming_Efe_Abel\M426_Uebung_TDD_Pair_Programming_Efe_Abel.csproj", "{BED27EF9-6009-4218-97C8-2BDC05BE0339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M426_Uebung_TDD_Pair_Programming_Efe_AbelTests", "M426_Uebung_TDD_Pair_Programming_Efe_AbelTests\M426_Uebung_TDD_Pair_Programming_Efe_AbelTests.csproj", "{66280729-C161-4DA2-8957-1C6FF2BA2359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED27EF9-6009-4218-97C8-2BDC05BE0339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED27EF9-6009-4218-97C8-2BDC05BE0339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED27EF9-6009-4218-97C8-2BDC05BE0339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED27EF9-6009-4218-97C8-2BDC05BE0339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66280729-C161-4DA2-8957-1C6FF2BA2359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66280729-C161-4DA2-8957-1C6FF2BA2359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66280729-C161-4DA2-8957-1C6FF2BA2359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66280729-C161-4DA2-8957-1C6FF2BA2359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A54822E-F8FF-4274-A286-6D2BCB475390}
+	EndGlobalSection
+EndGlobal
